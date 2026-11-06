@@ -339,7 +339,7 @@ export default function App() {
             </div>
             <div className="flower-message">
               <p className="flower-eyebrow">
-                <Heart size={13} fill="currentColor" /> for you, sunshine
+                <Heart size={13} fill="currentColor" /> พี่ตฝล้อทำไม!!!!!!!!!!!!!!!
               </p>
               <h1 id="flower-message">
                 <span>you had me at</span>
